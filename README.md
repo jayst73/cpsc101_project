@@ -1,1 +1,1 @@
-# cpsc101_project
+# CPSC101 Project
